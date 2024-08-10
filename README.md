@@ -33,10 +33,7 @@ This project involves predicting whether a client will subscribe to a term depos
     ```bash
     jupyter notebook BANK\ RANDOM\ FOREST\ PROJECT.ipynb
     ```
-2. Alternatively, use the `app.py` script to execute the model pipeline:
-    ```bash
-    python app.py
-    ```
+2. Alternatively, use the streamlit app by clickinng on link: https://bank-term-deposit-ru8zprtf3jmuf4hb3o3yai.streamlit.app/
 
 ## Dataset
 The dataset used in this project is from a bank marketing campaign, containing features related to clients' demographics, job information, and interaction history with the bank.
